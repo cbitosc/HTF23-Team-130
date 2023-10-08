@@ -234,10 +234,12 @@
     border-color: var(--primary);
 }
 
-.page-header {
-    background: url(../img/header-page.jpg) top center no-repeat;
+
+.page-header{
+    background: url(../img/organ-banner.avif) top center no-repeat;
     background-size: cover;
     text-shadow: 0 0 30px rgba(0, 0, 0, .1);
+    text-align: center;
 }
 
 .breadcrumb-item + .breadcrumb-item::before {
